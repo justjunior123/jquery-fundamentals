@@ -1,2 +1,2 @@
 # jquery-fundamentals
-Jquery Excercises
+Jquery Excercises for fun
